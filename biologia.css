@@ -10,7 +10,7 @@
     --amarelo-claro: #dbafff;
     --roxo-claro: #B2A5FF;
     --verde: #859dbc;
-    --azul-claro: #E4EFE7;
+    --azul-claro: #efe4ed;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
 }
@@ -117,7 +117,7 @@ main {
 
 h1 {
     text-align: center;
-    color: var(--verde);
+    color: var(--amarelo-claro);
     margin-bottom: 60px;
     font-size: 4rem;
 }
